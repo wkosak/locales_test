@@ -1,9 +1,10 @@
 ---
 pl:
   devise:
+    aaa_new_key:
+      send_instructions: Za chwilę wyślemy instrukcję aktywowania konta na Twój adres e-mail.
     confirmations:
       confirmed: Aktywowaliśmy Twoje konto. Zostałeś automatycznie zalogowany.
-      send_instructions: Za chwilę wyślemy instrukcję aktywowania konta na Twój adres e-mail.
       send_paranoid_instructions: Jeśli wpisałeś poprawny e-mail, za chwilę wyślemy instrukcję aktywowania konta na Twój adres e-mail.
     failure:
       already_authenticated: Jesteś już zalogowanyYYYYYYYY LOKALNA ZMIANA
