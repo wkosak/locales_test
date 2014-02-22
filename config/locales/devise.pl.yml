@@ -8,8 +8,8 @@ pl:
       send_paranoid_instructions: Jeśli wpisałeś poprawny e-mail, za chwilę wyślemy instrukcję aktywowania konta na Twój adres e-mail.
     failure:
       already_authenticated: Jesteś już zalogowanyYYYYYYYY LOKALNA ZMIANA
-      # pole typu blank
-      inactive: ''
+      # Już nie taki blank
+      inactive: 'Już nie taki blank'
       invalid: Niepoprawny adres e-mail lub hasło.
       invalid_token: Niepoprawny token.
       locked: Twoje konto jest zablokowane.
